@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Amy Elliott
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I love art and technical exploration
 baseurl             : "/"                     
 repository          :     
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,8 +23,8 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  name              : Amy Elliott
+  image             : /assets/image/profile.png
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
