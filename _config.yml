@@ -4,10 +4,10 @@ description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "/"                     
 repository          :     
 remote_theme        : YoussefRaafatNasry/portfolYOU
-open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                             
 
 
 ### Plugins ###
