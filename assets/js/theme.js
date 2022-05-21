@@ -7,7 +7,6 @@ const themes = {
 };
 
 initTheme();
-setTheme(dark);
 
 function initTheme() {
   const savedTheme = localStorage.getItem(STORAGE_KEY);
