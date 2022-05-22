@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\about",
+    "\\assets",
     "\\blog",
     "\\pages",
     "\\projects",
     "\\_data",
+    "\\_layouts",
     "\\_posts",
     "\\_projects"
   ],
-  "SelectedNode": "\\projects\\index.html",
+  "SelectedNode": "\\_projects\\Art Commissions (2021).md",
   "PreviewInSolutionExplorer": false
 }
