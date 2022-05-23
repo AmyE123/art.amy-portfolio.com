@@ -1,6 +1,14 @@
 ---
 ---
 /* Add your custom style here */
+/* Custom */
+.project-title { text-align: center; margin-top: 40px; }
+.project-description { text-align: center; margin-top: 10px; margin-bottom: 20px; color: #747474; }
+.hr2 { border-color: #747474; }
+.hero-wrapper { max-height: 300px !important; width: 100% !important; overflow: hidden; text-align: center; }
+.hero-image { margin-top: -10% !important; }
+
+/* Overrides */
 body { font-family: "Quicksand", sans-serif !important; }
 
 .border-g { border-color: #4E9F3D !important; border: 1px solid !important; }
