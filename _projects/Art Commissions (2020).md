@@ -20,7 +20,7 @@ description: See all of the commissions I've completed and made into an art book
 
 <!-- Table of Contents -->
 # Table of Contents
-1. [Intro](#intro)
+1. [Commissions Over The Months...](#commissions)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
@@ -33,15 +33,30 @@ Overall, opening up commissions for the first time during this year has taught m
 
 In this blog, I will be showcasing the commissions which I have done (and have had permission to post) throughout the year, as well as talking and showcasing the process for some of these.
 
-<a name="intro"></a>
-# Intro 
-## July
+<a name="commissions"></a>
+# Commissions Over The Months...
+Commissions aren't something I began at the beginning of the year, I started my first commission at the end of July, making it just under 6 months of commission work for this year.
+
+<a name="july"></a>
+## July - 1x Commission
 I got 1 commission in July, and this was from a friend. 
 It was scary at first, but thanks to the success of this commission, I was confident enough to carry on with others.
 
-<img src="https://am3pap005files.storage.live.com/y4mufyTwvNi6QoYIjnKu9dGiUB9nUQY9Ww_n2WK2up_XaOibICs1Ax8KiixKAx48vlX5me4OFIAON4AqQdffaYmUV7L_rFPRtmOCk0rWxmPPNLK1qW2mTPBrzB6fgy7c8JsGuSTyUs4vhKx_lvvBIhhgObvfB4_fXb3e4IxcBAKkNxKqb2VsfbU8ubHxs5I0V-q?width=1024&height=681&cropmode=none" width="1024" height="681" />
-<img src="https://am3pap005files.storage.live.com/y4mI2gJmHW9bKJF_GT7ZVQsaWsjRUfM5Wmn6Dn4taCzqjJaQ1QNU6brK8uxf28gsftegxNuoQHxh3UXcgTpuf32Ripk1u-ybutvBjxCpqwRFkIpJtS8pUHFGRz9HJDOK0IciWU6QtIrxXd9yLengrMVdOSIe_U0boYMZ2gd1z-G339LqBHGvNZor9IrD963GVx7?width=1024&height=681&cropmode=none" width="1024" height="681" />
-<img src="https://am3pap005files.storage.live.com/y4mU2ImROUwKn4TfZOEnwgHeY2YxuHX6HZWcVzCMTuj5iPPGYCweEvmCE-28KS1ftZAwk05U4OsbysY1oMer0SW-rNrCWWK_J6SmMyceBVxr_6DeNRWpob3Nt7cvKWnWt3GN2rjEdSBMSyZhZQBJ1Mrz3R1Vfkl0zY2V1QRho1fID2RVq8XSu2XSqL5BQOyR7CA?width=1024&height=681&cropmode=none" width="1024" height="681" />
+<a name="august"></a>
+## August - 16x Commissions
+This month is where things **really** kicked off, I made a few commission sheets, and then got a lot of responses from them! This month was crucial to learn about how to deal with a lot of customers at once
+
+<a name="september"></a>
+## September
+
+<a name="october"></a>
+## October
+
+<a name="november"></a>
+## November
+
+<a name="december"></a>
+## December
 
 # The Movies Project
 
