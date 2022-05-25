@@ -21,9 +21,8 @@ description: See all of the commissions I've completed and made into an art book
 <!-- Table of Contents -->
 # Table of Contents
 1. [Commissions Over The Months...](#commissions)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+2. [Dealing With Clients - What I Did, Broken Down](#clients)
+3. [Commission Booklet](#booklet)
 
 
 <!-- Content -->
@@ -37,38 +36,41 @@ In this blog, I will be showcasing the commissions which I have done (and have h
 # Commissions Over The Months...
 Commissions aren't something I began at the beginning of the year, I started my first commission at the end of July, making it just under 6 months of commission work for this year.
 
+The good thing about this, is if I'm having a busy month, I don't have to take on as many clients, I'm my own boss, so I can work at my own rate!
+
 <a name="july"></a>
-## July - 1x Commission
+## July - <span class="highlighted-text">1x Commission</span>
 I got 1 commission in July, and this was from a friend. 
 It was scary at first, but thanks to the success of this commission, I was confident enough to carry on with others.
 
+
+
 <a name="august"></a>
-## August - 16x Commissions
-This month is where things **really** kicked off, I made a few commission sheets, and then got a lot of responses from them! This month was crucial to learn about how to deal with a lot of customers at once
+## August - <span class="highlighted-text">16x Commissions</span>
+This month is where things **really** kicked off, I made a few commission sheets, and then got a lot of responses from them! This month was crucial to learn about how to deal with a lot of clients at once
 
 <a name="september"></a>
-## September
+## September - <span class="highlighted-text">8x Commissions</span>
+This is the month that I was starting my first year of University, I was using my Samsung Galaxy Tab S6 to draw, and travelling a lot back and forth between my home and University Accomodation to move my stuff, so considering how busy I was, I did quite a few commissions!
 
 <a name="october"></a>
-## October
+## October - <span class="highlighted-text">2x Commissions</span>
+University caught up on me during October and November, as I was starting the course, there was lots of work assigned and new stuff to study! So, I didn't so as many commissions
 
 <a name="november"></a>
-## November
+## November - <span class="highlighted-text">2x Commissions</span>
 
 <a name="december"></a>
-## December
+## December - <span class="highlighted-text">8x Commissions</span>
+During this month, I began offering and selling physical A3 and A4 prints of commissions, this was really exciting, and helped me learn about all things printing and posting!
 
-# The Movies Project
+<a name="clients"></a>
+# Dealing With Clients - What I Did, Broken Down
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
-
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-#fourth-examplehttpwwwfourthexamplecom <a name="fourth-examplehttpwwwfourthexamplecom"></a>
-# Highlights
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
+<a name="booklet"></a>
+# Commission Booklet
+{% capture carousel_images %}
+https://bit.ly/2BBbVhc
+https://bit.ly/2DOtxXB
+{% endcapture %}
+{% include elements/carousel.html %}
