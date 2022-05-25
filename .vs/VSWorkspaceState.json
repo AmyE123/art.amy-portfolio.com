@@ -1,15 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\about",
     "\\assets",
+    "\\assets\\css",
     "\\blog",
     "\\pages",
     "\\projects",
     "\\_data",
+    "\\_includes",
     "\\_layouts",
     "\\_posts",
     "\\_projects"
   ],
+  "SelectedNode": "\\_includes\\carousel.html",
   "PreviewInSolutionExplorer": false
 }
