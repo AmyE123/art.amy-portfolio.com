@@ -1,4 +1,5 @@
 # Local Site Directories
+.vs/
 _site/
 .sass-cache/
 .jekyll-cache/
