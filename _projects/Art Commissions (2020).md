@@ -123,7 +123,7 @@ I began Ashlee's character sheet with research
 {% include elements/figure.html image="https://am3pap005files.storage.live.com/y4mSEICUplO7opsBqsgeXnISzgJrf_RisHJM2UHxYeW8IGhv4HsN5KSvVydzMqhGZDbfNx-Jgi7-tvHAR7fWbuU8KxnSvo2HDFrDBNACmAbJhAZjeM1BVe9Kj2LwY5194OU6GezWI8HCncVLGwdNWZQloQxoowTk2I4Aex1SZZhBuhdj80rIchD5lNoCLhgH9rV?width=1024&height=788&cropmode=none" caption="Clothing Research" %}
 These images came from a Pintrest board that we put together, we discussed what we wanted the characters personality to be like and how we should dress him. 
 <div style="text-align:center">
-    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="200" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/ashe-commission-reference/"></a>
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/ashe-commission-reference/"></a>
 </div>
 <div class="padded-text">
     For the next stage, I done lots of sketching concepts of characters! These concepts were very loose.
@@ -195,7 +195,7 @@ These images came from a Pintrest board that we put together, we discussed what 
     Me and Pencoin used Pinterest to help us come up with an idea for the pose
 </div>
 <div style="text-align:center; padding-top: 10px">
-    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="200" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/pen-commission-reference/"></a>
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/pen-commission-reference/"></a>
 </div>
 <div class="padded-text">
     Here is the sketch and lineart for the piece:
@@ -281,7 +281,7 @@ These images came from a Pintrest board that we put together, we discussed what 
     These images came from a Pinterest board that me and Jess made together, I gathered lots of reference pictures from the description of the character which Jessica gave me.
 </div>
 <div style="text-align:center; padding-top: 10px">
-    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="200" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/jess-commission-reference/"></a>
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/jess-commission-reference/"></a>
 </div>
 <div class="padded-text">
     I then done a sketch, and some colour studies for the character, along with an extra outfit with colour studies as well.
@@ -334,7 +334,7 @@ These images came from a Pintrest board that we put together, we discussed what 
 </div>
 {% include elements/figure.html image="https://am3pap005files.storage.live.com/y4mySf9HEIisxGhJcf-osJqeHAjea4uEX5_ITE1bPrAcqf5X-rzeqA0jiWDMw4A0Y5xqTik4HDd-v85OGH_lEc7KEkr4TI55bVrG7WYLKFrT97AKtdqRXPhGsrjw3ozMwLP68awrRjDhl0xpTQBDDiC_U4XdgpmARMvMAOF6qCH8xuyyMuFmtGUwRSiTizeNo2a?width=1024&height=600&cropmode=none" caption="Research" %}
 <div style="text-align:center; padding-top: 10px">
-    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="200" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/jess-2-commission-reference/"></a>
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/jess-2-commission-reference/"></a>
 </div>
 <div class="padded-text">
     Once we had discussed the study sheet, I drew a sketch of the character, and then some colour studies and a final character sheet.
@@ -376,144 +376,54 @@ These images came from a Pintrest board that we put together, we discussed what 
 
 <!-- Tyler -->
 <h3 class="padded-head"><span class="highlighted-subtext">Character Sheet</span> Commission for Tyler</h3>
-<div id="aug6">
-    <div class="container">
-      <!--Carousel Wrapper-->
-          <div id="aug6-img" class="carousel slide carousel-multi-item" data-ride="carousel">
-            <!--Indicators-->
-                <ol class="carousel-indicators">
-                  <li data-target="#aug6-img" data-slide-to="0" class="active"></li>
-                  <li data-target="#aug6-img" data-slide-to="1"></li>
-                  <li data-target="#aug6-img" data-slide-to="2"></li>
-                </ol>
-            <!--/.Indicators-->
-
-            <!--Slides-->
-                <div class="carousel-inner" role="listbox">
-                    <!--First slide-->
-                        <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.First slide-->
-
-                    <!--Second slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
-                </div>
-            <!--/.Slides-->
-
-            <!--Controls-->
-                <div class="controls-top">
-                  <a class="btn-floating" href="#aug6-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
-                  <a class="btn-floating" href="#aug6-img" data-slide="next"><i class="fa fa-chevron-right"></i></a>
-                </div>
-            <!--/.Controls-->
-          </div>
-      <!--/.Carousel Wrapper-->
-    </div>
+<div class="padded-text">
+    Tylers commission began with sketches of the full body and the headshot.
+    His character was already made so he just wanted a character sheet.
 </div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4m0g6FyhmukzghfrSnLH8arqBbFj2svZJu3KnK8DB3PiNvXqrAXaxSOXevREGGw_7ta38PaDOGU96nyP7EsNq7oA-oJ5XSouA_iWUzgqKYQLOoeN0GWBAcxdhrJknNMH7E7Pih4QcQQAyhfCFDjZpVPj5YCGEbE2Lq6uMj2I_McX9WVSrz6Ve7XKS0MdcL6inT?width=1024&height=600&cropmode=none" caption="Sketches" %}
+<div style="text-align:center; padding-top: 10px">
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/tyler-commission-reference/"></a>
+</div>
+<div class="padded-text">
+    This is the final design sheet.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4mYL6Ke2gf8VIW4nvjO8Vi_yF9pRK9SkLBydlpWPzk2VCo08BL91rlOpd93grKT2FtPzVyzeMlk5hKw93K0brpQexbOyis7G8RUTvaw73kilhm1KAKSO2qDr7hT1SiBEYsRZp0FW4uL6eaUMQmjCZ2PRRIYmmluX-4cGycwwUv0FWW_deaD0eOAjqemW0VjWMV?width=1024&height=600&cropmode=none" %}
+
 
 <!-- Itenz -->
 <h3 class="padded-head"><span class="highlighted-subtext">Bust</span> Commission for Itenz</h3>
-<div id="aug7">
-    <div class="container">
-      <!--Carousel Wrapper-->
-          <div id="aug7-img" class="carousel slide carousel-multi-item" data-ride="carousel">
-            <!--Indicators-->
-                <ol class="carousel-indicators">
-                  <li data-target="#aug7-img" data-slide-to="0" class="active"></li>
-                  <li data-target="#aug7-img" data-slide-to="1"></li>
-                  <li data-target="#aug7-img" data-slide-to="2"></li>
-                </ol>
-            <!--/.Indicators-->
-
-            <!--Slides-->
-                <div class="carousel-inner" role="listbox">
-                    <!--First slide-->
-                        <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.First slide-->
-
-                    <!--Second slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
-                </div>
-            <!--/.Slides-->
-
-            <!--Controls-->
-                <div class="controls-top">
-                  <a class="btn-floating" href="#aug7-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
-                  <a class="btn-floating" href="#aug7-img" data-slide="next"><i class="fa fa-chevron-right"></i></a>
-                </div>
-            <!--/.Controls-->
-          </div>
-      <!--/.Carousel Wrapper-->
-    </div>
+<div class="padded-text">
+    Itenz has my help designing the character, except he wanted this to be a bust shot commission instead of a character sheet.
+    We began with the study sheet.
 </div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4mWsFxPOohWMhGM-ZxTnAljUT-8TKg0KeJDt5VLcpmee9jhmxDiU8RywF-ETVSDpMIcIprSUoRgfunSNPISVlQaXIMwApQxIKHwExJtfrBE9at1m-4y-Wy0NdVh4QxK8JtjxupnGWWhAuCpqy95iCxy32I0JMdGoOOQoSAuJ3lTIC67gJ8TAFSHa4ODxOONx0z?width=1024&height=600&cropmode=none" caption="Research" %}
+<div style="text-align:center; padding-top: 10px">
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/itenz-commission-reference/"></a>
+</div>
+<div class="padded-text">
+    I drew a sketch of the head and we done some colour studies, and a final colour was picked.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4m7vrKgFZ-ofdIq9qduGG3p5Nsp4QRs_EHDBc3I1s84pvLFdJJHYqAoy1V3pqiG2tB0Ma_mkISx7JLmuWsMBpMugjnh36zDC2Cn_MEU1bd6I9RTUgwMspIqWCep67m2fopl_CfTy_KkKfSqpF_v0CrgHEcmshXmkp8DxYAIDlwv34hBI5D-JfBEbbAWvW-yuZG?width=1024&height=600&cropmode=none" caption="Colour Studies & Final Piece" %}
 
 <!-- Monetic -->
 <h3 class="padded-head"><span class="highlighted-subtext">Character Sheet</span> Commission for Monetic</h3>
-<div id="aug8">
-    <div class="container">
-      <!--Carousel Wrapper-->
-          <div id="aug8-img" class="carousel slide carousel-multi-item" data-ride="carousel">
-            <!--Indicators-->
-                <ol class="carousel-indicators">
-                  <li data-target="#aug8-img" data-slide-to="0" class="active"></li>
-                  <li data-target="#aug8-img" data-slide-to="1"></li>
-                  <li data-target="#aug8-img" data-slide-to="2"></li>
-                </ol>
-            <!--/.Indicators-->
-
-            <!--Slides-->
-                <div class="carousel-inner" role="listbox">
-                    <!--First slide-->
-                        <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.First slide-->
-
-                    <!--Second slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
-                </div>
-            <!--/.Slides-->
-
-            <!--Controls-->
-                <div class="controls-top">
-                  <a class="btn-floating" href="#aug8-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
-                  <a class="btn-floating" href="#aug8-img" data-slide="next"><i class="fa fa-chevron-right"></i></a>
-                </div>
-            <!--/.Controls-->
-          </div>
-      <!--/.Carousel Wrapper-->
-    </div>
+<div class="padded-text">
+    This commission started out with a pinterest board, and a very detailed description of the character which was described in a voice call.
+    Sketches were then done next.
 </div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4msT7Q9Bn7nvrEqYcwarZmqXuX8pYOIlAIOXblxlm6-VtmdNfUNj6SMkaiZ9S1Oi7V3NexNgdJfQ4339y_tnV1hnozwzOmqSKazNr4F-uFATbCHkQloPoii8jcBl3r9dNi0LOLU5jw2e67WJJDeDk-Xfz0qLltU3B8ZtIMLWbonYbr6a2Jy48Cigtjwap55MdC?width=1024&height=600&cropmode=none" caption="Sketches" %}
+<div style="text-align:center; padding-top: 10px">
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/monetic-commission-reference/"></a>
+</div>
+<div class="padded-text">
+    We moved onto colour studies next, trying out a bunch of different colours to see what looked the best.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4miRKOR1JpRqDVSfg4YKGc8cOqHHM-b-c0mhF9eK8MGpeLlMM6VbbRvFl2v6bwpR1ZMbh2onL6PbpM4EPIoX1EAmNjuOTaLTJ99nUnKpE1w7K6FGmE3WB4fsf8-VS3VVznNkNQ8de2lzOBp89SpuIDq-AxBJQKUap3le_lQf3FvyxOVMkO0V9icORI_RD5_FYv?width=1024&height=600&cropmode=none" caption="Colour Studies" %}
+<div class="padded-text">
+    Some colours were chosen, and then I finished the character sheet.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4moqNyMgNTpzRxMm6C_v8rhpriwcPj42fPB2PwlpIWUYmQWbnB3c9U03UKQz563FK4AGwbko2CMPCXjjwl078NSwKUYzEQGDuQlg-LR6R4tZq3zdO2wH2NIqoBnNXREMV5J1Gh0pN4G01LZwIVJqLngi1EJXdWE96vxYIx_v-YHNJYHTGU0fQ1GxOdQNw5SG5f?width=1024&height=600&cropmode=none" %}
+
 
 <!-- ShadowLink -->
 <h3 class="padded-head"><span class="highlighted-subtext">Bust</span> Commission for ShadowLink</h3>
@@ -525,32 +435,22 @@ These images came from a Pintrest board that we put together, we discussed what 
                 <ol class="carousel-indicators">
                   <li data-target="#aug9-img" data-slide-to="0" class="active"></li>
                   <li data-target="#aug9-img" data-slide-to="1"></li>
-                  <li data-target="#aug9-img" data-slide-to="2"></li>
                 </ol>
             <!--/.Indicators-->
-
             <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <!--First slide-->
                         <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mB3sbj4RnyDmvPOCXlYIu4Cn7bnz78K30GWePU7o68QDCkEAkD8x8xrClanVHhwMbxSIbMhthWToL6K3_HOvMKJVHiaBRTlMCCGnyQWWB5h1b4ZLqWkvygqMTFvSGD6PVHSO6kY2CQ37auNZ2kWYY7xsm_VSunrsO_91_WuXrl3d8jJZG5h4Y16QAPcT9kjV4?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.First slide-->
-
                     <!--Second slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4metW1Fvg-EZaUXabcYTJZRan-1ENsiTqmjZrafK8P5VJLiAiJA045GDC-1iCKlGANZveFk8JS6FN-RM_Fx62pMLbDC7SrslcUDNTD95cLHkq_ASY83WJ235XpQlxDobB_R_uVMSrhflWzF5V1nfDsXrV-EzMNPDeHgs17qxuYjognIRrqyzNwd-Dm3VQ3vigT?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
                 </div>
             <!--/.Slides-->
-
             <!--Controls-->
                 <div class="controls-top">
                   <a class="btn-floating" href="#aug9-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
@@ -572,32 +472,22 @@ These images came from a Pintrest board that we put together, we discussed what 
                 <ol class="carousel-indicators">
                   <li data-target="#aug10-img" data-slide-to="0" class="active"></li>
                   <li data-target="#aug10-img" data-slide-to="1"></li>
-                  <li data-target="#aug10-img" data-slide-to="2"></li>
                 </ol>
             <!--/.Indicators-->
-
             <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <!--First slide-->
                         <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mV7_j8VfM-M9EL6rAp6bNIT6cUe57EKu0a4yhUhDtECB-XWUCCRZTj0UF1vglLFTpsAiqhQdYjue8esgU9IsytJaVwCBQbrTpm7yhR2A2MOkuyCzD-2cUAXUye1jdaLp8qrNBAntL715ii6Kuj4f3WQR0BkAqxM0vvx8RF1A05foFk6JoClS0J6ZPb2z7fpXz?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.First slide-->
-
                     <!--Second slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mkuEnWyjYjOChl5ISs3DrxeNFZM8OES05N8wgvgXXA3dYECuYO9SFXS685qDmZ7owmBICTM6UPhmMK9TuI4U7PxsSKIkS1GkblHO2x89U9DbXAJsqaEXEjbZv27kkZM1cfK93rOywNgEWPPrAe8QTZk0RHlITwG_wg_rJqksfrUnygUyjvH53ddcWwaP1iAbF?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
                 </div>
             <!--/.Slides-->
-
             <!--Controls-->
                 <div class="controls-top">
                   <a class="btn-floating" href="#aug10-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
@@ -619,32 +509,22 @@ These images came from a Pintrest board that we put together, we discussed what 
                 <ol class="carousel-indicators">
                   <li data-target="#aug11-img" data-slide-to="0" class="active"></li>
                   <li data-target="#aug11-img" data-slide-to="1"></li>
-                  <li data-target="#aug11-img" data-slide-to="2"></li>
                 </ol>
             <!--/.Indicators-->
-
             <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <!--First slide-->
                         <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mqyiLexuDyo_Y1RXy5jUGwCgBfSCyO6k02nlDKwqwnZ99VoW-pMaKbldNLxWHrGrPOWrCdMJo8BizWW9UFvodU7tn8CL3sILRGyzq33sGRZb1QL6_kOHm8RcP2LAnPnkE14nF5sNStHFiDsLjYFNJ4OVCXPQQ4sNsMKi69apKD__sXXxb7ZW7sBTg1ckReFJb?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.First slide-->
-
                     <!--Second slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4m5joxLucOYUvyNJyEIp_BhJyaTsEn4u08rnV3jfFD1LHoLgnLxMiWsO8W3tyk2FE05X2J_hPRcX5wgYgUQFAtNLT9NOZlxFelwYAlcHTt9w0abXsWZiT0zrpsD7rPc9zGXoBuI2g5Q7MRtVOMfpSq36xaGLs-1ygBltX1sbUHrKtNGuQ0FmQ6C9-1hMAAoioG?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
                 </div>
             <!--/.Slides-->
-
             <!--Controls-->
                 <div class="controls-top">
                   <a class="btn-floating" href="#aug11-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
@@ -666,32 +546,22 @@ These images came from a Pintrest board that we put together, we discussed what 
                 <ol class="carousel-indicators">
                   <li data-target="#aug12-img" data-slide-to="0" class="active"></li>
                   <li data-target="#aug12-img" data-slide-to="1"></li>
-                  <li data-target="#aug12-img" data-slide-to="2"></li>
                 </ol>
             <!--/.Indicators-->
-
             <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <!--First slide-->
                         <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4m7OLMOjxWa3m1kPP5dNQLaMzpqnlEHH8BAkucYw0nw7ChuC1mQauF2ORcxDjmt0AQ7_1uBMKmu1oTCKmtrBxUlOOwNqNTayAsHCFf-HoCQqUOloFgzNHWuy3lDqJsQoO2l-wK_cUoubZnFKAFbBZqY6MSFeFl_KGWMUbl3JnyvY30153curRxmBuHoJZ9SSMk?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.First slide-->
-
                     <!--Second slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mtAL93kpIPs7rQ6S-2aJYiIq391Cbxy24026RM2vGSef2QkpX5oQES0qCGyRoSsfVGbOGMW4gRWZUL8QhMEilAvYwED32IBn6rcn9TJak7_WQKbmGu1omrrvrAwchE2lKTnq8Ng_kEthfNAn9WXKOfaaW4C2B_YsU12J_a7WdmflKEB4qL9HSJhebEWyu9fqG?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
                 </div>
             <!--/.Slides-->
-
             <!--Controls-->
                 <div class="controls-top">
                   <a class="btn-floating" href="#aug12-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
@@ -713,32 +583,22 @@ These images came from a Pintrest board that we put together, we discussed what 
                 <ol class="carousel-indicators">
                   <li data-target="#aug13-img" data-slide-to="0" class="active"></li>
                   <li data-target="#aug13-img" data-slide-to="1"></li>
-                  <li data-target="#aug13-img" data-slide-to="2"></li>
                 </ol>
             <!--/.Indicators-->
-
             <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <!--First slide-->
                         <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mn5fL70mu22wvs3xdLILk3pvf4OcuMSWaGmeQUKyVxH-yGYHHci_l-GCSyYkOpP-27sjQwTtMoqekwhrNleyXDElFPgXL88DRf7OS6uClHL1p5IzdBKV3gPmQWTSB9hFwo7iVezszmYdHL2up_1y4ATWN8DJR643gdPCYs985s0zC9rxSOJbfufsSSRxlfCTp?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.First slide-->
-
                     <!--Second slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mTmAuqj0Y-5-_kfLaliG8mYbpVtr3zTsTDpdjjgQzITj5V2JXU-tiExhpH_cQ1ljLceXtMczFTT9IUJDR3758oK8wkYUxfTh0AWNqQxwmCkeZ-LTD--uFf5G9wNt1lcxAPX_bMG_Gc_xdkUsE-eiDIwUkjM06Gc5spWUOUtJ_0Yjw0k5JCHHxh7MVfcmWn1nU?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
                 </div>
             <!--/.Slides-->
-
             <!--Controls-->
                 <div class="controls-top">
                   <a class="btn-floating" href="#aug13-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
@@ -752,6 +612,19 @@ These images came from a Pintrest board that we put together, we discussed what 
 
 <!-- MasterR50 -->
 <h3 class="padded-head"><span class="highlighted-subtext">Full Body</span> Commission for MasterR50</h3>
+<div class="padded-text">
+    This commission started with a detailed description and a Pinterest board, the study sheet was made with the description in mind.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4m1pVQHmYAuHx6qvk8iQnhbL_bhSty1BqW8O1ccYbOl3hDT3UVVj67qV7Sdls8S8JyY1VV1usMIrajuw7yBYXD30jG8IaidlGsfzgYl5Qfy1P2UdcLMJEalKrFAALC3YnF_97tW2vdxUsT4E9GegqnSz-ISzKktUk5NxpjGg_bQwdCirw_SUs5-8zjA1FABuNH?width=1024&height=600&cropmode=none" caption="Outfit Research" %}
+<div class="padded-text">
+    I started the sketch, and then moved onto colour studies for the outfit. We knew we wanted to stick to a purple colour scheme though.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4mVUPDAkZWGe2uXNFOptL0Go_N1Ebt2Aq0FkG0DiNnBdaWfkcgY_SCP1iJmJ0w8ShngoAmTA_sTLu1HlGEZKCfzeBDh5gIPQ26rqOLK5mec8Ly14saRslXxvuNx_ixSo4b9L63WtmeZFqiRzomI_51vSmxPliGMwLheHGh9ABqBgIciSVZuWhIYjfeMfN73QtT?width=1024&height=600&cropmode=none" caption="Sketches & Colour Studies" %}
+<div class="padded-text">
+    He then wanted 2 more pieces which I done the sketches for. <br />
+    These pieces will be the same character, but in a different outfit.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4m_poQ8X6VSo1v-7XvUIq7Td24Cl6Uvflhddc7pa59oLa30eDQg9AicB8x0f6ucsiSzsdRwM5FEx8Nse1jUtRSEQUQXcKYBFQTQ6i1SOn_9peSOlkxCI4HXDcjBaP6xz0ImfYb4Wz1x5haouOvhFE9-yNfOFlKDrsnCHIBrQFtdo_yn8YSuzkkBqUw6gG3zQqw?width=1024&height=600&cropmode=none" %}
 <div id="aug14">
     <div class="container">
       <!--Carousel Wrapper-->
@@ -763,29 +636,25 @@ These images came from a Pintrest board that we put together, we discussed what 
                   <li data-target="#aug14-img" data-slide-to="2"></li>
                 </ol>
             <!--/.Indicators-->
-
             <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <!--First slide-->
                         <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mjNdr8Pv0S8z3U756kP72seVeZe1dvql71Kf_2vLH0vqxHrjYZLdMOQakkKqMxPnIZBB5ddhJld-4RrOJf6pCdAqyuAUMLbduyfg7GntNuusfoWRU89Z6YsufV7OfqyOIlhOZqi9MM-MTR_TmYERzQ29F7HoQ53einhaWvGKOPRMAFDCictg2AbRsXSln6nTE?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.First slide-->
-
                     <!--Second slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mDX8wmZyIQGpQvKpsgqaj5h9EJJhS1LdTdmXLnk-7wKTkiV3GpoWj78fHC8ogRvLknk7eI2ygg_3niM4gplX1edT-LIKfpK4rYulnecuk6nVYpF9X_I4b41GLvOAzcq8Hd9m6lf5Oi9dee8w-pv4Vopw0M-pfmuPO1tk246LN0O4sx61HM0H3aWUEY5qd1D-p?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Second slide-->
-
                     <!--Third slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mr-T6ubmPLjS1kvv5_ufXU4VOM5bquFjBHD9CouoIrFl2JlZZznrmhJyOxVGX5hIUlVWSvPyJyGpEEcWeQNHRfKeaKOBb9FelIRj2K3PrvnPmoabT14c1nzFac0g1HT1Y2bmN40Gz94Wgucd4PYA3O1NMYNp2TVNbaoArikk4ULP3aVWzOzjDd2iZmF14sz7n?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Third slide-->
                 </div>
             <!--/.Slides-->
-
             <!--Controls-->
                 <div class="controls-top">
                   <a class="btn-floating" href="#aug14-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
