@@ -681,6 +681,9 @@ This is the month that I was starting my first year of University, I was using m
 
 <!-- Covygrunt -->
 <h3 class="padded-head"><span class="highlighted-subtext">Bust</span> Commission for Covygrunt</h3>
+<div class="padded-text">
+    This commission was exciting for me to do as I was drawing a character I knew!
+</div>
 <div id="sept1">
     <div class="container">
       <!--Carousel Wrapper-->
@@ -689,32 +692,22 @@ This is the month that I was starting my first year of University, I was using m
                 <ol class="carousel-indicators">
                   <li data-target="#sept1-img" data-slide-to="0" class="active"></li>
                   <li data-target="#sept1-img" data-slide-to="1"></li>
-                  <li data-target="#sept1-img" data-slide-to="2"></li>
                 </ol>
             <!--/.Indicators-->
-
             <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <!--First slide-->
                         <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mI8GqzJwhb_fzh-TKinxGCHIP9baZbOV8Yy6jD-hLNS_EZzZwGN_UQWa9oogE8zUpBruTbW0cLMfb1GcmMKwApf13y6EMkJ6G700dbHHR-Ix5Wf1SHStFAdbF5m---a5u_RLpyPgtMpsHtl4gyNGx7VxVL3KlJzd9s_8NQbB1F8wQy-Lh7m8PVmDmMVITD3Yl?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.First slide-->
-
                     <!--Second slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mGYVfYfd0PC1Zh4haNFcoGzDRcpYpEld43reSjlNtiSeP9cONPzDM_Krx05EwOWd12xfctnxghPtLiXSc5wqDqrcXyk0rh9rNefTutdzGlhDQjeFtsyU-Hb9NYp5BtlqoZdKFdPBI1VUwP1cVCOLq6cc1ocHP90t30tB4yKZjnKzpshb2vkXi-Vi8P6vqAQEA?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
                 </div>
             <!--/.Slides-->
-
             <!--Controls-->
                 <div class="controls-top">
                   <a class="btn-floating" href="#sept1-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
@@ -728,97 +721,32 @@ This is the month that I was starting my first year of University, I was using m
 
 <!-- Erston -->
 <h3 class="padded-head"><span class="highlighted-subtext">Half Body</span> Commission for Erston</h3>
-<div id="sept2">
-    <div class="container">
-      <!--Carousel Wrapper-->
-          <div id="sept2-img" class="carousel slide carousel-multi-item" data-ride="carousel">
-            <!--Indicators-->
-                <ol class="carousel-indicators">
-                  <li data-target="#sept2-img" data-slide-to="0" class="active"></li>
-                  <li data-target="#sept2-img" data-slide-to="1"></li>
-                  <li data-target="#sept2-img" data-slide-to="2"></li>
-                </ol>
-            <!--/.Indicators-->
-
-            <!--Slides-->
-                <div class="carousel-inner" role="listbox">
-                    <!--First slide-->
-                        <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.First slide-->
-
-                    <!--Second slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
-                </div>
-            <!--/.Slides-->
-
-            <!--Controls-->
-                <div class="controls-top">
-                  <a class="btn-floating" href="#sept2-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
-                  <a class="btn-floating" href="#sept2-img" data-slide="next"><i class="fa fa-chevron-right"></i></a>
-                </div>
-            <!--/.Controls-->
-          </div>
-      <!--/.Carousel Wrapper-->
-    </div>
+<div class="padded-text">
+    For this commission we started with a pinterest board and lots of different colour ideas!
 </div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4msTh21dtwWCw_Hcw2-18YiwgIKIM8LuihwicnNXh1NNASJXUX6GI5Db5CN6yDmlM8Lg0O09ArqZdeyHKoX97QJ5BDcl-xWZvqODb_MTekRnXpD-bSp3etfC5dpiaO5HLK4AzcoN0hTuAHnh39MrmfhhqdYWvyaTlSiEWhwlxUAn-4_uQiaMhD66IymjXwW3Pq?width=1024&height=600&cropmode=none" caption="Colour Studies" %}
+<div style="text-align:center; padding-top: 10px">
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/erston-commission-reference/"></a>
+</div>
+<div class="padded-text">
+    After some discussion with Erston, a final colour scheme was picked, and I made the final piece.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4m8n8vEd0KJshxBjxW8oFaHcouYagpp5V3jzZW2nen4OSPHp37Jwc-uFK3mb-g4ANTW-OoZ3ie54GdLA0PL1TSRTDRrxjlFtVbxb9aIEgb8oe6MPbnJhiLN_0bkBgaLnoT9MVu9Q7gvVPeTm4Cu8eVB8optsufMDy-4yyn-Ximo3Y6bVOf_0T07Csdd0MYVkU6?width=1024&height=600&cropmode=none" %}
 
 <!-- Dixeyja -->
 <h3 class="padded-head"><span class="highlighted-subtext">Character Sheet</span> Commission for Dixeyja</h3>
-<div id="sept3">
-    <div class="container">
-      <!--Carousel Wrapper-->
-          <div id="sept3-img" class="carousel slide carousel-multi-item" data-ride="carousel">
-            <!--Indicators-->
-                <ol class="carousel-indicators">
-                  <li data-target="#sept3-img" data-slide-to="0" class="active"></li>
-                  <li data-target="#sept3-img" data-slide-to="1"></li>
-                  <li data-target="#sept3-img" data-slide-to="2"></li>
-                </ol>
-            <!--/.Indicators-->
-
-            <!--Slides-->
-                <div class="carousel-inner" role="listbox">
-                    <!--First slide-->
-                        <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.First slide-->
-
-                    <!--Second slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
-                </div>
-            <!--/.Slides-->
-
-            <!--Controls-->
-                <div class="controls-top">
-                  <a class="btn-floating" href="#sept3-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
-                  <a class="btn-floating" href="#sept3-img" data-slide="next"><i class="fa fa-chevron-right"></i></a>
-                </div>
-            <!--/.Controls-->
-          </div>
-      <!--/.Carousel Wrapper-->
-    </div>
+<div class="padded-text">
+    This character sheet was for an already made character, so I began with drawing the character sketches.
 </div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4mEd-_IpOpUE6zfexnyci976SAskzGI0aonVf3Y6a5ZVCaMGEPnxv9jXo_R16mUeAeRuKyG0As1ylQaOEzDv0_-UqTeqjkFqsEmi81Uajg6UvdgyAp8258yqRIESsN079nngxmUg5VtuzTBmL0PZJoFz_OzNR9h1I2kpbzwv1rAqA1oEPLAd_3ZMZruLkBTde8?width=1024&height=600&cropmode=none" %}
+<div style="text-align:center; padding-top: 10px">
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/jake-commission-reference/"></a>
+</div>
+<div class="padded-text">
+    This is the finished character sheet
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4mB1jr4hMqWB3TUeLMPa2Ydtj3529jCH1icpYTQ5haz4YCZwALTw1rFOlsD3m5cmJaX4TeUZZR2-9GXPwVaewUHB8JCFLriakwlK-Ppa0fqERN0y-cg69SCBqcMYe5zbApqUlV4p_2AMoKMb7hn-DYa3gP9sIjizpRPUrzeBl0EGvn7KTJtIH_KIhCBGjYx3iF?width=1024&height=600&cropmode=none" %}
+
 
 <!-- Kirin -->
 <h3 class="padded-head"><span class="highlighted-subtext">Full Body</span> Commission for Kirin</h3>
@@ -830,32 +758,22 @@ This is the month that I was starting my first year of University, I was using m
                 <ol class="carousel-indicators">
                   <li data-target="#sept4-img" data-slide-to="0" class="active"></li>
                   <li data-target="#sept4-img" data-slide-to="1"></li>
-                  <li data-target="#sept4-img" data-slide-to="2"></li>
                 </ol>
             <!--/.Indicators-->
-
             <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <!--First slide-->
                         <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4msS2J8a_dCDkGCTxSfXVfUoHINfI_G8aeVpYEzY0rxuh2DqA1ZiEZDcbW2MkOzlwzMsOPGX4iIBB4LGy5ldpGfHrSKY4BrrH7TDfRSzgk8p1F2y-5ZxgLE7Vwbk6qqSQXvq8lE1vsPQ12p4EoK-6_5JeOnQ5ILuDddnTuqed7sJvoqpcv3jS2hc7OqXjJHntB?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.First slide-->
-
                     <!--Second slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mmzX8rSp9uHX7oPUR-zBKfxvSZhX5bEvUGBDSQJxk2iaFpCBmLQZTUv_HlG4MCJ8ILEg8bo0j6syvZARvYauBbsXSWxCzqGwCZKALgf35FnQa8u5Kz6IPiw73QbtwlIU0nbO_aIjk66mdTH4f-md_9utBqmq5BwKybvXJv_PoruzIEfBcjYs0VquKrhvIPPuH?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Second slide-->
-
-                    <!--Third slide-->
-                        <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
-                        </div>
-                    <!--/.Third slide-->
                 </div>
             <!--/.Slides-->
-
             <!--Controls-->
                 <div class="controls-top">
                   <a class="btn-floating" href="#sept4-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
@@ -869,6 +787,17 @@ This is the month that I was starting my first year of University, I was using m
 
 <!-- Doug -->
 <h3 class="padded-head"><span class="highlighted-subtext">Full Body</span> Commission for Doug</h3>
+<div class="padded-text">
+    The brief for this commission was to make Doug's girlfriend into a character, I found this so much fun to do! <br>
+    I started with research.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4mSokEqFq55P5a2ksFprVPLPkoP3PRKvi8TNIOlod_DfwwTiy-Tu2Eve0xaxHs9ldPoLUPr6ACDK7OJMoX_p1k3GgEpBLGaKL928pwxRb7xAxh5abr_qsKCOzUMAURjwG9P4lnsVycsLqpEbi953QjE22OI4RJagNx11LhtzCJ3MThIbUgdVaVPan25y9g70U2?width=1024&height=600&cropmode=none" %}
+<div style="text-align:center; padding-top: 10px">
+    <a data-pin-do="embedBoard" data-pin-board-width="900" data-pin-scale-height="400" data-pin-scale-width="60" href="https://www.pinterest.co.uk/amy_elliott12/impirushreturn-commission-reference/"></a>
+</div>
+<div class="padded-text">
+    Once we had discussed the research, I moved onto the sketch, lineart and *many* colour studies for the character.
+</div>
 <div id="sept5">
     <div class="container">
       <!--Carousel Wrapper-->
@@ -878,28 +807,31 @@ This is the month that I was starting my first year of University, I was using m
                   <li data-target="#sept5-img" data-slide-to="0" class="active"></li>
                   <li data-target="#sept5-img" data-slide-to="1"></li>
                   <li data-target="#sept5-img" data-slide-to="2"></li>
+                  <li data-target="#sept5-img" data-slide-to="3"></li>
                 </ol>
             <!--/.Indicators-->
-
             <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                     <!--First slide-->
                         <div class="carousel-item active">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mV2QeKO4sydJm90EzTipfZzMecKrwUCQAIx80zulXrKDLPZP0zeJujCSmEL8sAV55ZmY3-rCVSurMe_q5aiUw4MiKTeIQQUecGYXNRkkBGLTRu4FRYOf5oB5LvJFwkdfVBoA2Yn63191Rk8BSbglZ8bPSILXlMPDNz5euM-VppyFlYwGLsHhCvrDBx2yDpZdF?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.First slide-->
-
                     <!--Second slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4maWQRysfAlQyvyZtYC4DmalyRUZWNPQryyR13xch-7r9NGr-URISgpA3hHPlaKkzHMuhG6dxCGdhE3bs-7NFONQrJOzTphsGvQ-gZX66dFURa3ZWlFWsOYamFpbeo6qmE9i0QulT06IwvCIZDfZiw4GIZilminpDNtx_K2VEF9-ixAMZ0Wj-2IGRbFtdQKJqT?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Second slide-->
-
                     <!--Third slide-->
                         <div class="carousel-item">
-                            <img src="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/06/Types-of-Palm-Trees.jpg">
+                            <img src="https://am3pap005files.storage.live.com/y4mCjsczNay1Dr3jY8d8_2Hqq2wcWvX4C-aUjsfbsvbkkeprAEx_xIQ9F-FHu4-xt-qrkn-hVPITJoSlkQYuTdoWLmAuvRDO1TP0yYG7tGCz_Hkh2skIOMPQvzAS_BPxASJWS7l0OCQa-Ck5lhy4HWYr50Xv5_gQuhGnDeGR2KQvlaJofqXq6CN9KNF9QdPGpaf?width=1024&height=600&cropmode=none">
                         </div>
                     <!--/.Third slide-->
+                    <!--Fourth slide-->
+                        <div class="carousel-item">
+                            <img src="https://am3pap005files.storage.live.com/y4mOpTkhZDoqW64pblz0aqKMde8mG-HZ_lOsUgaP2zxct855YP-fnLq2mb-Vpvrj_EStFayMA2w69M0a7KR9-rkNFy9Afs-tQCrPTHjz136ukom-lx9GIbHZBb8TtPKYp_CPfNPMIOTGljZQcvkzNNf0xt38lrsvt7C6-w2_P6kzSx46FLMYAF74Td-YeL4uB6e?width=1024&height=600&cropmode=none">
+                        </div>
+                    <!--/.Fourth slide-->
                 </div>
             <!--/.Slides-->
 
@@ -907,6 +839,50 @@ This is the month that I was starting my first year of University, I was using m
                 <div class="controls-top">
                   <a class="btn-floating" href="#sept5-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
                   <a class="btn-floating" href="#sept5-img" data-slide="next"><i class="fa fa-chevron-right"></i></a>
+                </div>
+            <!--/.Controls-->
+          </div>
+      <!--/.Carousel Wrapper-->
+    </div>
+</div>
+<div class="padded-text">
+    We chatted about the colour studies, and doug picked out his favourite parts.
+    I then made a final piece for him.
+</div>
+{% include elements/figure.html image="https://am3pap005files.storage.live.com/y4mPHGrVkcy4JN2NFBzqRolgiWEPazIsa-X9l6Uo13_rSAXgReifiK4VaPQ4gXXZd5US6jaXHAOY7efAQb93T4xmJqASAn8jPueYn8WsNk5aF4eVUorpmqK8R0KBQRo1fgttCh2OsjBcpB15s6Lw4nzpN_t_zfN1jqSHRL3CDMs7pJvAghbJ1RiS3HNykRqrqjt?width=1024&height=600&cropmode=none" %}
+<div class="padded-text">
+    The main reason why I began selling prints in December was because of this commission. <br />
+    Doug printed out this commission to give to his girlfriend for her birthday, and it made me really happy seeing her reaction! <br />
+    She even recognized straight away that it was a drawing of herself!
+</div>
+<div id="sept3">
+    <div class="container">
+      <!--Carousel Wrapper-->
+          <div id="sept3-img" class="carousel slide carousel-multi-item" data-ride="carousel">
+            <!--Indicators-->
+                <ol class="carousel-indicators">
+                  <li data-target="#sept3-img" data-slide-to="0" class="active"></li>
+                  <li data-target="#sept3-img" data-slide-to="1"></li>
+                </ol>
+            <!--/.Indicators-->
+            <!--Slides-->
+                <div class="carousel-inner" role="listbox">
+                    <!--First slide-->
+                        <div class="carousel-item active">
+                            <img src="https://am3pap005files.storage.live.com/y4mYNk_3-oxOiS33I3g41m91l7sOCOT8PbeP0BtY1qjLiq1CuWzev0xYrlcXx1S5BTcLAg9DdyU5PGTWEM6ruQczd9mcUJ7nUSr4baXFhf3WFHv8YKBfJA72dJUStQLrnE7vz_Y8Ic8n4RGRc4z7xDEYeFvRU0-bYNEbQEDfYC3V0rNIihWnw38cEZM5LJbQZJK?width=1024&height=600&cropmode=none">
+                        </div>
+                    <!--/.First slide-->
+                    <!--Second slide-->
+                        <div class="carousel-item">
+                            <img src="https://am3pap005files.storage.live.com/y4mRU6EMs18eDN3-u1-KHhlIrn3mtLhbqkc3oawiSNrBvhSsB9ed_pWTKU5mrtpRevUC2SWWl_Ty3J0dNfKoUefiiYl8z1djKXJINxWdiy84NUtdCZzKHTD2zhIaJ5AvAMRhmmd55X_iAMNiXooPs9vxXl_MNowvlI3At87RPHVlPsq3Kxv4R_t6pZp62QfmVbj?width=1024&height=600&cropmode=none">
+                        </div>
+                    <!--/.Second slide-->
+                </div>
+            <!--/.Slides-->
+            <!--Controls-->
+                <div class="controls-top">
+                  <a class="btn-floating" href="#sept3-img" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+                  <a class="btn-floating" href="#sept3-img" data-slide="next"><i class="fa fa-chevron-right"></i></a>
                 </div>
             <!--/.Controls-->
           </div>
